@@ -1,5 +1,5 @@
 - Hi, I’m @Soulmeister-x
-- I’m interested in fair and free software and system concepts.
+- I’m interested in free and open source software and system concepts.
 - I'm currently studying Informatics.
 
 <!---
